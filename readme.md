@@ -1,7 +1,7 @@
 <h1 align="center"> Ignite Lab!!  </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Um Microsserviço completo de Notificações com Principal foco em NodeJS!! Evento exclusivo e gratuito fornecido pela Rocketseat.
 </p>
 
 <p align="center">
