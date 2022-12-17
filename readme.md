@@ -22,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node e NPM](https://nodejs.org/)
 - [NestJS](https://nestjs.com/)
-- React
 - TypeScript
 - JavaScript e JSON
 - Prisma
